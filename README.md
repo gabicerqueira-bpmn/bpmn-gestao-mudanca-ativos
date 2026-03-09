@@ -56,3 +56,7 @@ O fluxo inclui:
 Gabriela Cerqueira é profissional com experiência em **gestão de processos, gestão de ativos, melhoria contínua e padronização de fluxos operacionais**, com atuação em contextos industriais e organizacionais que exigem controle, rastreabilidade e eficiência.
 
 Este projeto demonstra a aplicação de modelagem de processos para representação estruturada de fluxos de mudança, com foco em clareza, governança e apoio à tomada de decisão.
+
+# ⚠️ Observação
+
+Este projeto utiliza **dados fictícios**, criados exclusivamente para fins educacionais e demonstração de habilidades em mapeamento BPMN.
